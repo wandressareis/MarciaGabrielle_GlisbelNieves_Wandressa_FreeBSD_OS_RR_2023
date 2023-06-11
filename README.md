@@ -12,7 +12,7 @@
 
 ## 👩🏻‍💻 Instalação
   
-## 🔎 Referências
+## 🔎 Buscas
 ``` bash 
 https://www.freebsd.org/
 ```
