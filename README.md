@@ -13,3 +13,6 @@
 ## 👩🏻‍💻 Instalação
   
 ## 🔎 Referências
+``` bash 
+https://www.freebsd.org/
+```
