@@ -1,6 +1,8 @@
 <div align="center">
    <img src= "https://user-images.githubusercontent.com/94376190/230129990-71a2933a-c49e-4117-97ca-30a3271d2a4e.png" width = "100px"/>
-   <h4 align=""> Trabalho expositivo das principais características da Distribuição FreeBSD, onde também é demonstrado o processo de instalação da distro.<h4/>
+   <h4 align=""> Trabalho expositivo das principais características da Distribuição FreeBSD, onde também é demonstrado o processo de instalação da distro.</h4>
+
+   [Apresentação](./Apresenta%C3%A7%C3%A3o/apresentacao.pdf) | [Instalação](./) | [Relatório](./)
 </div>
 <div align="left"> 
   <img src="https://github.com/wandressareis/MarciaGabrielle_GlisbelNieves_Wandressa_FreeBSD_OS_RR_2023/assets/94376190/1d463b6e-e500-4f5b-aba8-5ac17d9f9253" width="300">
