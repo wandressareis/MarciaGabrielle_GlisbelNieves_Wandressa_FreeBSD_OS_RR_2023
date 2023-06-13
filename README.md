@@ -11,12 +11,11 @@
 </div>
 <br>
 <br>
-<br>
 
-## 👩🏻‍💻 Instalação
 <div>
    <img src="https://github.com/wandressareis/MarciaGabrielle_GlisbelNieves_Wandressa_FreeBSD_OS_RR_2023/assets/94376190/625e7258-53b9-4c17-a601-46770894b4ca"  width="150" align="right">
-    <h4 align="left"> Os requisitos mínimos de instalação do FreeBSD variam dependendo da arquitetura utilizada. No entanto, para realizar a instalação, é necessário ter no mínimo 96 MB de RAM e 1,5 GB de espaço livre no disco rígido. Esses requisitos mínimos são adequados para aplicativos personalizados, como dispositivos embarcados. No entanto, para sistemas de desktop de uso geral, é recomendado ter entre 2 e 4 GB de RAM e pelo menos 8 GB de espaço no disco rígido como ponto de partida. </h4>
+   <h2> 👩🏻‍💻 Instalação </h2> 
+   <h4 align="left"> Os requisitos mínimos de instalação do FreeBSD variam dependendo da arquitetura utilizada. No entanto, para realizar a instalação, é necessário ter no mínimo 96 MB de RAM e 1,5 GB de espaço livre no disco rígido. Esses requisitos mínimos são adequados para aplicativos personalizados, como dispositivos embarcados. No entanto, para sistemas de desktop de uso geral, é recomendado ter entre 2 e 4 GB de RAM e pelo menos 8 GB de espaço no disco rígido como ponto de partida. </h4>
 </div>
 <br>
 
