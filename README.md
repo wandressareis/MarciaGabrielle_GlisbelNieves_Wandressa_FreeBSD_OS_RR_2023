@@ -7,7 +7,7 @@
    <img src="https://github.com/wandressareis/MarciaGabrielle_GlisbelNieves_Wandressa_FreeBSD_OS_RR_2023/assets/94376190/1d463b6e-e500-4f5b-aba8-5ac17d9f9253" align="left" width="300">
 <br> 
 <div> 
-   <h4 align="left"> Este estudo destaca-se no FreeBSD que é um sistema operacional de código aberto baseado no Unix BSD, descreve os principais recursos do FreeBSD, conhecido por sua flexibilidade e adaptabilidade, robustez, segurança e escalabilidade. </h4>
+   <h4 align="left"> Este estudo destaca-se no FreeBSD que é um sistema operacional de código aberto baseado no Unix BSD. Descreve os principais recursos do FreeBSD, conhecido por sua flexibilidade e adaptabilidade, robustez, segurança e escalabilidade. </h4>
 </div>
 <br>
 <br>
